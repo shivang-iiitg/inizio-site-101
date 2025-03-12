@@ -3,7 +3,7 @@ import team from "../assets_team/WeAreTheTeam.png";
 
 const TeamPic = ({ imageUrl }) => {
   return (
-    <div className="relative flex items-center justify-center p-4 pt-[75px] md:pt-[55px] ls:pt-[35px] pt-0">
+    <div className="relative flex items-center justify-center p-4 pt-0">
       <div className="relative w-full max-w-[1400px] mx-auto">
         {imageUrl && (
           <img

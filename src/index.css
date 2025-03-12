@@ -6,6 +6,13 @@
     box-sizing: border-box;
 }
 
+.outfit-900 {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
+
 html,
 body {
     height: 100%;
@@ -26,3 +33,6 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+
+
